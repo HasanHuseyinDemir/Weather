@@ -22,7 +22,7 @@ export default{
   name:"app",
   data(){
     return{
-      api_key:"c0883dee00ab6415efdc1a5218002e26",
+      api_key:"Buraya Api Key Yazılması Gerekiyor",
       url_base:"https://api.openweathermap.org/data/2.5/",
       query:"",
       weather:{}
