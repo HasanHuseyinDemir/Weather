@@ -1,7 +1,7 @@
 # Weather APP
 Şehir yazdığınızda sıcaklığını ve durumunu gösteren bir uygulamadır.
 Vue ile yazılıp build edilmiştir.
-
+---
 ## Uygulama içi
 
 ### Hava eğer 16 dereceden yüksek ise
