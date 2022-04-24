@@ -1,8 +1,8 @@
 # Weather APP
 Şehir yazdığınızda sıcaklığını ve durumunu gösteren bir uygulamadır.
 Vue ile yazılıp build edilmiştir.
----
-## Uygulama içi
+
+### Uygulama içi
 
 ### Hava eğer 16 dereceden yüksek ise
 ![Sıcak](https://github.com/HasanHuseyinDemir/Weather-App/blob/main/info/sicak.JPG)
